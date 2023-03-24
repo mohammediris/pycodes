@@ -1,2 +1,2 @@
-# pycodes
-my first experiment with python
+# myPythonExperiments
+experimenting python concepts 
